@@ -1,0 +1,31 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	line-height: 1.7;
+	background-color: #FDFDFB;
+	overflow-x: hidden;
+}
+
+.icon {
+    height: 48px;
+    font-size: 24px;
+    line-height: 48px;
+    text-align: left;
+    transition: all 200ms linear;
+}
+.icon:hover{
+    color: white;
+}
+.icon-green{
+    color:#41bb92;
+}
+p{
+	color: white;
+    margin-top: 16px;
+}
+h2{
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 26%;
+}
